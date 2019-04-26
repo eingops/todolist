@@ -6,7 +6,7 @@ import List from './components/List';
 
 
 
-const name='eing';
+
 const styles ={
   bor:{
     border:'1px solid black',
